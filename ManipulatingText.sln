@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulatingText", "ManipulatingText\ManipulatingText.csproj", "{6B93D200-C958-4411-AE17-47576CFB254E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B93D200-C958-4411-AE17-47576CFB254E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B93D200-C958-4411-AE17-47576CFB254E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B93D200-C958-4411-AE17-47576CFB254E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B93D200-C958-4411-AE17-47576CFB254E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4FE30FE-6CC5-49BD-8805-E4C646833F9D}
+	EndGlobalSection
+EndGlobal
